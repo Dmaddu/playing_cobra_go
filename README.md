@@ -1,3 +1,3 @@
 # playing_cobra_go
 
-creating simple cli application with cobra
+creating simple cli application with cobra in golang
